@@ -16,3 +16,7 @@ Provides randomly generated passwords depending on user needs.
 
 ## License
 MIT license in GitHub repository creation
+
+https://xenodiusalpha.github.io/Password_Generator_JS/
+
+![Screenshot of deployed site](image.png)
